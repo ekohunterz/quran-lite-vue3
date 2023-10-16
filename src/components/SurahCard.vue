@@ -21,7 +21,7 @@
   </router-link>
 </template>
 <script setup>
-import IconStar from './Icons/IconStar.vue'
+import IconStar from './IconStar.vue'
 
 const props = defineProps({
   nomor: Number,
